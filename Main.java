@@ -1,7 +1,7 @@
 package fr.epsi.demo;
 
 
-class Helloworld{
+class Main{
 
 
     public static void main(String ...args){
